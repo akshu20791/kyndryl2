@@ -1,1 +1,2 @@
-hello Akshat gupta
+hello Akshat Gupta
+we are learning git
